@@ -2,7 +2,7 @@
 
 This is a story looking at what Hollywood movies don't get released in India. This has been submitted to the Hindustan Times and am putting this out there to get feedback before it's published. You can read it online [here](https://shijithpk.github.io/hollywood_releases_in_india/index.html).
 
-Most of the data for the story was taken from [the-numbers.com](http://the-numbers.com) and IMDB(http://imdb.com). The Bookmyshow team also helped me out with some [data](data/bookmyshow_list.csv).
+Most of the data for the story was taken from [the-numbers.com](http://the-numbers.com) and [IMDB](http://imdb.com). The Bookmyshow team also helped me out with some [data](data/bookmyshow_list.csv).
 
 You can find the python code used to scrape the webpages and analyse the data in this [jupyter notebook](https://nbviewer.jupyter.org/github/shijithpk/hollywood_releases_in_india/blob/master/us_india_diff.ipynb). The notebook also has a summary of the different steps I took in the analysis.
 

@@ -27,4 +27,4 @@ The columns of note in the csv, the ones I ended up using in the story are **dom
 - **languages_imdb** : Languages spoken in the movie according to the IMDB website
 - **id_imdb** : IMDB's internal id for each movie
 - **genres_imdb_extended** : Genres for each movie according to the IMDB website, scraped using the [IMDbPy](https://imdbpy.sourceforge.io/) library. This is the column I ended up using in the story.
-- **distributor_us** : Different US distributors are part of different studios. We found which studio each distributor belonged to, and if it's one of the majors, the name of the studio was listed here. This column was used in the story too.
+- **distributor_us** : Different US distributors are part of different studios. We found which studio each distributor belonged to, and if it's one of the major studios, the name of the studio was listed here. This column was used in the story too.

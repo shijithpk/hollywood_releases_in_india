@@ -1,49 +1,49 @@
-year,title,nominee,released_in_india,domestic_distributor,,,,,,,,
-2014,12 Years A Slave,best_feature,yes,21st_century_fox,,,,,,,,
-2014,Enough Said,best_director_or_screenplay,no,21st_century_fox,,,,,,,,
-2015,Birdman or (The Unexpected Virtue of Ignorance),best_feature,yes,21st_century_fox,,,,,,,,
-2017,Jackie,best_feature,yes,21st_century_fox,,,,,,,,
-2018,"Three Billboards outside Ebbing, Missouri",best_director_or_screenplay,yes,21st_century_fox,,,,,,,,
-2014,The Spectacular Now,best_director_or_screenplay,no,A24,,,,,,,,
-2015,A Most Violent Year,best_director_or_screenplay,yes,A24,,,,,,,,
-2016,The End of the Tour,best_director_or_screenplay,no,A24,,,,,,,,
-2017,20th Century Women,best_director_or_screenplay,no,A24,,,,,,,,
-2017,American Honey,best_feature,yes,A24,,,,,,,,
-2017,Moonlight,best_feature,yes,A24,,,,,,,,
-2018,Good Time,best_director_or_screenplay,yes,A24,,,,,,,,
-2018,Lady Bird,best_feature,yes,A24,,,,,,,,
-2018,The Florida Project,best_feature,yes,A24,,,,,,,,
-2018,The Lovers,best_director_or_screenplay,yes,A24,,,,,,,,
-2015,"Kumiko, The Treasure Hunter",best_director_or_screenplay,no,Amplify,,,,,,,,
-2016,Beasts of No Nation,best_feature,no,Bleecker Street,,,,,,,,
-2014,Inside Llewyn Davis,best_feature,yes,CBS Films,,,,,,,,
-2014,Upstream Color,best_director_or_screenplay,no,erbp Film,,,,,,,,
-2014,Frances Ha,best_feature,no,IFC Films,,,,,,,,
-2015,Boyhood,best_feature,yes,IFC Films,,,,,,,,
-2017,Certain Women,best_director_or_screenplay,yes,IFC Films,,,,,,distributor,number in list,released
-2014,All Is Lost,best_feature,yes,lionsgate,,,,,,fox,5,4
-2014,Mud,best_director_or_screenplay,yes,lionsgate,,,,,,lionsgate,5,4
-2017,Hell or High Water,best_director_or_screenplay,yes,lionsgate,,,,,,nbc universal,2,2
-2017,Manchester by the Sea,best_feature,yes,lionsgate,,,,,,sony,7,4
-2018,Beatriz at Dinner,best_director_or_screenplay,no,lionsgate,,,,,,viacom,2,2
-2016,Tangerine,best_feature,no,Magnolia Pictures,,,,,,,,
-2017,Little Men,best_director_or_screenplay,no,Magnolia Pictures,,,,,,,,
-2016,Anomalisa,best_feature,no,Matson,,,,,,,,
-2017,Chronic,best_feature,no,Monument Releasing,,,,,,,,
-2017,Loving,best_director_or_screenplay,yes,nbc_universal,,,,,,,,
-2018,Get Out,best_feature,yes,nbc_universal,,,,,,,,
-2015,Nightcrawler,best_director_or_screenplay,yes,Open Road,,,,,,,,
-2016,Spotlight,best_feature,yes,Open Road,,,,,,,,
-2016,It Follows,best_director_or_screenplay,yes,RADiUS-TWC,,,,,,,,
-2016,Bone Tomahawk,best_director_or_screenplay,no,RLJ Entertainment,,,,,,,,
-2014,Before Midnight,best_director_or_screenplay,yes,sony,,,,,,,,
-2014,Blue Jasmine,best_director_or_screenplay,yes,sony,,,,,,,,
-2015,Love is Strange,best_feature,no,sony,,,,,,,,
-2015,Only Lovers Left Alive,best_director_or_screenplay,yes,sony,,,,,,,,
-2015,Whiplash,best_feature,yes,sony,,,,,,,,
-2018,Call Me by Your Name,best_feature,no,sony,,,,,,,,
-2018,The Rider,best_feature,no,sony,,,,,,,,
-2014,Nebraska,best_feature,yes,viacom,,,,,,,,
-2015,Selma,best_feature,yes,viacom,,,,,,,,
-2015,Big Eyes,best_director_or_screenplay,yes,Weinstein Co.,,,,,,,,
-2016,Carol,best_feature,yes,Weinstein Co.,,,,,,,,
+year,title,nominee,released_in_india,domestic_distributor
+2014,12 Years A Slave,best_feature,yes,21st_century_fox
+2014,Enough Said,best_director_or_screenplay,no,21st_century_fox
+2015,Birdman or (The Unexpected Virtue of Ignorance),best_feature,yes,21st_century_fox
+2017,Jackie,best_feature,yes,21st_century_fox
+2018,"Three Billboards outside Ebbing, Missouri",best_director_or_screenplay,yes,21st_century_fox
+2014,The Spectacular Now,best_director_or_screenplay,no,A24
+2015,A Most Violent Year,best_director_or_screenplay,yes,A24
+2016,The End of the Tour,best_director_or_screenplay,no,A24
+2017,20th Century Women,best_director_or_screenplay,no,A24
+2017,American Honey,best_feature,yes,A24
+2017,Moonlight,best_feature,yes,A24
+2018,Good Time,best_director_or_screenplay,yes,A24
+2018,Lady Bird,best_feature,yes,A24
+2018,The Florida Project,best_feature,yes,A24
+2018,The Lovers,best_director_or_screenplay,yes,A24
+2015,"Kumiko, The Treasure Hunter",best_director_or_screenplay,no,Amplify
+2016,Beasts of No Nation,best_feature,no,Bleecker Street
+2014,Inside Llewyn Davis,best_feature,yes,CBS Films
+2014,Upstream Color,best_director_or_screenplay,no,erbp Film
+2014,Frances Ha,best_feature,no,IFC Films
+2015,Boyhood,best_feature,yes,IFC Films
+2017,Certain Women,best_director_or_screenplay,yes,IFC Films
+2014,All Is Lost,best_feature,yes,lionsgate
+2014,Mud,best_director_or_screenplay,yes,lionsgate
+2017,Hell or High Water,best_director_or_screenplay,yes,lionsgate
+2017,Manchester by the Sea,best_feature,yes,lionsgate
+2018,Beatriz at Dinner,best_director_or_screenplay,no,lionsgate
+2016,Tangerine,best_feature,no,Magnolia Pictures
+2017,Little Men,best_director_or_screenplay,no,Magnolia Pictures
+2016,Anomalisa,best_feature,no,Matson
+2017,Chronic,best_feature,no,Monument Releasing
+2017,Loving,best_director_or_screenplay,yes,nbc_universal
+2018,Get Out,best_feature,yes,nbc_universal
+2015,Nightcrawler,best_director_or_screenplay,yes,Open Road
+2016,Spotlight,best_feature,yes,Open Road
+2016,It Follows,best_director_or_screenplay,yes,RADiUS-TWC
+2016,Bone Tomahawk,best_director_or_screenplay,no,RLJ Entertainment
+2014,Before Midnight,best_director_or_screenplay,yes,sony
+2014,Blue Jasmine,best_director_or_screenplay,yes,sony
+2015,Love is Strange,best_feature,no,sony
+2015,Only Lovers Left Alive,best_director_or_screenplay,yes,sony
+2015,Whiplash,best_feature,yes,sony
+2018,Call Me by Your Name,best_feature,no,sony
+2018,The Rider,best_feature,no,sony
+2014,Nebraska,best_feature,yes,viacom
+2015,Selma,best_feature,yes,viacom
+2015,Big Eyes,best_director_or_screenplay,yes,Weinstein Co.
+2016,Carol,best_feature,yes,Weinstein Co.

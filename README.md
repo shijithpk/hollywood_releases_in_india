@@ -8,6 +8,6 @@ Most of the data for the story was taken from [the-numbers.com](http://the-numbe
 
 You can find the python code used to scrape the webpages and analyse the data in this [jupyter notebook](https://nbviewer.jupyter.org/github/shijithpk/hollywood_releases_in_india/blob/master/us_india_diff.ipynb). The notebook also has a summary of the different steps I took in the analysis.
 
- Can't share much of the data I used, that belongs to the various movie websites, so I can't redistribute it. But the github repo does have the final dataset I used to arrive at my results. It's available as a csv [here](data/india_release_check_v20.csv).
+ Can't share much of the data I used, that belongs to the various movie websites, so I can't redistribute it. But the github repo does have the final dataset I used to arrive at my results. It's available as a csv [here](data/india_release_check_v20.csv). There's also some info on that final dataset, what it contains etc. in the data [folder](data/).
 
 If you’re an econometrician, statistician or data scientist and think I should have done something differently in this analysis, do let me know! You can contact me on twitter—[@shijith](https://twitter.com/shijith)—and by email—[mail@shijith.com](mailto:mail@shijith.com).
